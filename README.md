@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/jhefflg"><img src="https://api.daily.dev/devcards/v2/04vveCznswvMPmMzzXMWv.png?r=i54&type=wide" width="652" alt="Jefferson Lima's Dev Card"/></a>
+<a href="https://app.daily.dev/jhefflg"><img src="https://api.daily.dev/devcards/v2/04vveCznswvMPmMzzXMWv.png?type=wide&r=wjn" width="652" alt="Jefferson Lima's Dev Card"/></a>
 
 <!--
 **jhefflg/jhefflg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
